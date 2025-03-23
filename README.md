@@ -1,1 +1,1 @@
-Primeiro projeto feito com apenas HTML e CSS
+Primeiro projeto criado com apenas HTML e CSS
